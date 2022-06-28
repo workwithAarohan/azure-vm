@@ -1,1 +1,1 @@
-Console.ReadLine("Help");
+Console.WriteLine("Help");
